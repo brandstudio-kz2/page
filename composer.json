@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "brandstudio/starter": "^1.0"
+        "brandstudio/starter": "dev-master"
     },
     "autoload": {
         "psr-4": {
